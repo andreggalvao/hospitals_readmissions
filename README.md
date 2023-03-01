@@ -1,10 +1,11 @@
-# hospitals_readmissions
+# Reducing hospital readmissions
+
  How can hospitals reduce readmissions?
 
-Background
+## Background
 You work for a consulting company helping a hospital group better understand patient readmissions. The hospital gave you access to ten years of information on patients readmitted to the hospital after being discharged. The doctors want you to assess if initial diagnoses, number of procedures, or other variables could help them understand the probability of readmission. They want to focus follow-up calls and attention on those patients with a higher probability of readmission.
 
-Your challenge
+## Your challenge
 Create a report that covers the following:
 
 What is the most common primary diagnosis by age group?
