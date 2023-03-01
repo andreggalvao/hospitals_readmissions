@@ -8,6 +8,6 @@ You work for a consulting company helping a hospital group better understand pat
 ## Your challenge
 Create a report that covers the following:
 
-What is the most common primary diagnosis by age group?
-Some doctors believe diabetes might play a central role in readmission. Explore the effect of a diabetes diagnosis on readmission rates.
-On what groups of patients should the hospital focus their follow-up efforts to better monitor patients with a high probability of readmission?
+1. What is the most common primary diagnosis by age group?
+2. Some doctors believe diabetes might play a central role in readmission. Explore the effect of a diabetes diagnosis on readmission rates.
+3. On what groups of patients should the hospital focus their follow-up efforts to better monitor patients with a high probability of readmission?
