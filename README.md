@@ -1,5 +1,7 @@
 # Reducing hospital readmissions
 
+https://github.com/andreggalvao/hospitals_readmissions/blob/main/1010294.jpg?raw=true
+
  How can hospitals reduce readmissions?
 
 ## Background
